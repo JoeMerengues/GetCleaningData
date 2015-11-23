@@ -1,19 +1,3 @@
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @JoeMerengues
- Watch 1
-  Star 0
-  Fork 0 vivekdtiwari/Getting-and-Cleaning-Data-Project
- Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathGetting-and-Cleaning-Data-Project/CodeBook.md
-eefbbea  9 hours ago
-@vivekdtiwari vivekdtiwari Add detailed codebook for the analysis
-1 contributor
-RawBlameHistory     65 lines (37 sloc)  3.68 KB
 CodeBook
 This is a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
 
